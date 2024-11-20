@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Halaman-1" id="Y80M56ZSuJKKFgf_Gu2e">
     <mxGraphModel dx="1216" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="62EWxUmSz6-aSFfVlWEd-55" value="Bonus" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="620" y="360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="62EWxUmSz6-aSFfVlWEd-119" value="Id_transaksi" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#3399FF;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="62EWxUmSz6-aSFfVlWEd-119" value="Id_transaksi" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="289.72" y="430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62EWxUmSz6-aSFfVlWEd-111" value="Tanggal" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="62EWxUmSz6-aSFfVlWEd-112" value="Jumlah" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="439.72" y="430" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="62EWxUmSz6-aSFfVlWEd-121" value="Id_Laporan" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#3399FF;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="62EWxUmSz6-aSFfVlWEd-121" value="Id_Laporan" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="460" y="530" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62EWxUmSz6-aSFfVlWEd-123" value="Tanggal" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
@@ -199,7 +199,7 @@
         <mxCell id="5JjsfmcTFtYj6niKm7DO-1" value="Simpanan" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="290" y="530" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5JjsfmcTFtYj6niKm7DO-2" value="Pinjaman" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="5JjsfmcTFtYj6niKm7DO-2" value="Pinjaman" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="365" y="530" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62EWxUmSz6-aSFfVlWEd-102" value="Biodata" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
@@ -208,7 +208,7 @@
         <mxCell id="62EWxUmSz6-aSFfVlWEd-103" value="Sts_Kngtn" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="130" y="360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="62EWxUmSz6-aSFfVlWEd-79" value="Arus_Kas" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="62EWxUmSz6-aSFfVlWEd-79" value="Arus_Kas" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="450" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62EWxUmSz6-aSFfVlWEd-77" value="Sumber" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#3399FF;" parent="1" vertex="1">
