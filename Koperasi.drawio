@@ -166,7 +166,7 @@
         <mxCell id="62EWxUmSz6-aSFfVlWEd-45" value="Memiliki" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#FA4032;" parent="1" vertex="1">
           <mxGeometry x="360" y="170" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="62EWxUmSz6-aSFfVlWEd-67" value="Mengurus" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#FF4545;" parent="1" vertex="1">
+        <mxCell id="62EWxUmSz6-aSFfVlWEd-67" value="Dikelola" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#FF4545;" parent="1" vertex="1">
           <mxGeometry x="359.72" y="305" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62EWxUmSz6-aSFfVlWEd-85" value="Mengurus" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#FF4545;" parent="1" vertex="1">
@@ -371,6 +371,9 @@
             <mxPoint x="410" y="320" as="sourcePoint" />
             <mxPoint x="570" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cnj_ZMA8Nnzv-CYISjme-2" value="Kepala Kope" style="whiteSpace=wrap;html=1;align=center;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="630" y="480" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
