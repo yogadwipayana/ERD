@@ -7,7 +7,7 @@
         <mxCell id="pL62GG7J2505InTliQbV-1" value="Pasien" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="-870" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pL62GG7J2505InTliQbV-2" value="Registrasi" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pL62GG7J2505InTliQbV-2" value="Administrasi" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="-920" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pL62GG7J2505InTliQbV-3" value="Poliklinik" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="pL62GG7J2505InTliQbV-6" value="Obat" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="-750" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pL62GG7J2505InTliQbV-7" value="Pegawai" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-710" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pL62GG7J2505InTliQbV-8" value="Fasilitas" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-670" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
