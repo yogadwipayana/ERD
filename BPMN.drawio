@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Halaman-1" id="dJWml7e_3UsgryPbaNAH">
-    <mxGraphModel dx="1591" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,6 +474,18 @@
         <mxCell id="2Y-CChpE2fxilLZrQBRF-15" value="kurang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7fL4uUcQSLp4_IyfIsAQ-3">
           <mxGeometry x="435" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2Y-CChpE2fxilLZrQBRF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="2Y-CChpE2fxilLZrQBRF-22" target="2Y-CChpE2fxilLZrQBRF-23" parent="7fL4uUcQSLp4_IyfIsAQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y-CChpE2fxilLZrQBRF-22" value="Databse Transaksi" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="7fL4uUcQSLp4_IyfIsAQ-3">
+          <mxGeometry x="1280" y="25" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y-CChpE2fxilLZrQBRF-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;perimeterSpacing=1;strokeWidth=2;gradientColor=none;fillStyle=auto;" vertex="1" parent="7fL4uUcQSLp4_IyfIsAQ-3">
+          <mxGeometry x="1360" y="45" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Y-CChpE2fxilLZrQBRF-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;perimeterSpacing=1;strokeWidth=2;gradientColor=none;fillStyle=auto;" vertex="1" parent="7fL4uUcQSLp4_IyfIsAQ-3">
+          <mxGeometry x="1365" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="7fL4uUcQSLp4_IyfIsAQ-4" value="Pembeli" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="7fL4uUcQSLp4_IyfIsAQ-1" vertex="1">
           <mxGeometry y="30" width="1480" height="130" as="geometry" />
         </mxCell>
@@ -575,23 +587,6 @@
         <mxCell id="2Y-CChpE2fxilLZrQBRF-19" value="Memperbarui progres pesanan ke &#39;selesai&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="7fL4uUcQSLp4_IyfIsAQ-10">
           <mxGeometry x="1190" y="35" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2Y-CChpE2fxilLZrQBRF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="2Y-CChpE2fxilLZrQBRF-22" target="2Y-CChpE2fxilLZrQBRF-23" parent="7fL4uUcQSLp4_IyfIsAQ-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2Y-CChpE2fxilLZrQBRF-22" value="Databse Transaksi" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="7fL4uUcQSLp4_IyfIsAQ-10">
-          <mxGeometry x="1310" y="25" width="50" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="2Y-CChpE2fxilLZrQBRF-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;perimeterSpacing=1;strokeWidth=2;gradientColor=none;fillStyle=auto;" vertex="1" parent="7fL4uUcQSLp4_IyfIsAQ-10">
-          <mxGeometry x="1390" y="45" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2Y-CChpE2fxilLZrQBRF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" target="2Y-CChpE2fxilLZrQBRF-22" parent="7fL4uUcQSLp4_IyfIsAQ-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1270" y="65" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2Y-CChpE2fxilLZrQBRF-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;perimeterSpacing=1;strokeWidth=2;gradientColor=none;fillStyle=auto;" vertex="1" parent="7fL4uUcQSLp4_IyfIsAQ-10">
-          <mxGeometry x="1395" y="50" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="7fL4uUcQSLp4_IyfIsAQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7fL4uUcQSLp4_IyfIsAQ-9" target="7fL4uUcQSLp4_IyfIsAQ-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -623,6 +618,11 @@
               <mxPoint x="485" y="1980" />
               <mxPoint x="540" y="1980" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Y-CChpE2fxilLZrQBRF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" target="2Y-CChpE2fxilLZrQBRF-22" parent="1" source="2Y-CChpE2fxilLZrQBRF-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="2025" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
