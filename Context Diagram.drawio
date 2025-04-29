@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Halaman-1" id="AJIZU4uZfc5atYPycg0p">
-    <mxGraphModel dx="666" dy="311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="360" y="320" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8uF3iyZKsHIv3o5QH_9D-2" value="Pemilik" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="360" width="110" height="40" as="geometry" />
+          <mxGeometry x="640" y="360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8uF3iyZKsHIv3o5QH_9D-3" value="Kustomer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="440" width="110" height="40" as="geometry" />
@@ -35,10 +35,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8uF3iyZKsHIv3o5QH_9D-12" value="Laporan Data pegawai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="360" width="140" height="30" as="geometry" />
+          <mxGeometry x="480" y="360" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8uF3iyZKsHIv3o5QH_9D-13" value="Laporan Data Member" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="470" y="380" width="140" height="30" as="geometry" />
+          <mxGeometry x="480" y="380" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8uF3iyZKsHIv3o5QH_9D-14" value="Laporan Transaksi Layanan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="340" width="170" height="30" as="geometry" />
