@@ -294,7 +294,7 @@
         <mxCell id="y3j-LSw53iztxdtQgl71-90" edge="1" parent="1" source="y3j-LSw53iztxdtQgl71-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="y3j-LSw53iztxdtQgl71-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3j-LSw53iztxdtQgl71-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Rubah Pesanan" vertex="1">
+        <mxCell id="y3j-LSw53iztxdtQgl71-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" value="Lihat Pesanan" vertex="1">
           <mxGeometry height="40" width="80" x="690" y="759" as="geometry" />
         </mxCell>
         <mxCell id="y3j-LSw53iztxdtQgl71-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
