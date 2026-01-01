@@ -307,7 +307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MrJ7CmA3M5gJxwxWGHSb" name="Sequence">
-    <mxGraphModel dx="1043" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1251" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,7 +468,7 @@
         <mxCell id="b4-pVr5n-lllLBnHcYCM-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7. Payment" vertex="1">
           <mxGeometry height="20" width="90" x="90" y="264" as="geometry" />
         </mxCell>
-        <mxCell id="b4-pVr5n-lllLBnHcYCM-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.619;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="b4-pVr5n-lllLBnHcYCM-12" value="">
+        <mxCell id="b4-pVr5n-lllLBnHcYCM-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.654;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" target="b4-pVr5n-lllLBnHcYCM-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="220" y="290" as="sourcePoint" />
             <mxPoint x="350" y="290" as="targetPoint" />
