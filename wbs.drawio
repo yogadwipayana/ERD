@@ -1,9 +1,76 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="k-MoNzGc9v8x9ts8V-Bk">
-    <mxGraphModel dx="2275" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistem Informasi Rental Kendaraan dengan GPS Tracking" vertex="1">
+          <mxGeometry height="60" width="160" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul&lt;div&gt;Manajemen User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="110" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul&lt;div&gt;Manajemen User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul&lt;div&gt;Manajemen User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul&lt;div&gt;Manajemen User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="330" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul&lt;div&gt;Manajemen User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="440" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul&lt;div&gt;Manajemen User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="550" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul&lt;div&gt;Manajemen User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="660" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Modul&lt;div&gt;Manajemen User&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="770" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-17" edge="1" parent="1" source="KSEvfTUWQToYUKlKnLsR-9" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KSEvfTUWQToYUKlKnLsR-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="120" />
+              <mxPoint x="440" y="120" />
+            </Array>
+            <mxPoint x="520" y="280" as="sourcePoint" />
+            <mxPoint x="570" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-19" edge="1" parent="1" source="KSEvfTUWQToYUKlKnLsR-2" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KSEvfTUWQToYUKlKnLsR-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="120" />
+              <mxPoint x="440" y="120" />
+            </Array>
+            <mxPoint x="340" y="290" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-20" edge="1" parent="1" source="KSEvfTUWQToYUKlKnLsR-11" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KSEvfTUWQToYUKlKnLsR-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="120" />
+              <mxPoint x="440" y="120" />
+            </Array>
+            <mxPoint x="340" y="290" as="sourcePoint" />
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KSEvfTUWQToYUKlKnLsR-21" edge="1" parent="1" source="KSEvfTUWQToYUKlKnLsR-12" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="KSEvfTUWQToYUKlKnLsR-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="120" />
+              <mxPoint x="440" y="120" />
+            </Array>
+            <mxPoint x="430" y="170" as="sourcePoint" />
+            <mxPoint x="480" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
